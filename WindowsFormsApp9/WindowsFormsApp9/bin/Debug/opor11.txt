@@ -1,0 +1,5 @@
+Americano Ice     45
+Latte Hot     35
+Latte Ice     45
+Mocha Ice     45
+Mocha Hot     35
